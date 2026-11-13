@@ -23,3 +23,16 @@ Add this repo as an Agent Plugin, or add the MCP server directly: `https://deadl
 ## License
 
 MIT. See `LICENSE`. This repo holds only the plugin manifest, skills and assets; the hosted server is separate.
+
+---
+
+## About Bot2Bot Labs
+
+Bot2Bot Labs publishes [dated AI receipts](https://bot2botlabs.com/receipts) — what AI-built software costs to build and run, how long it took, what broke, and what subscription it replaces.
+
+- Site: [bot2botlabs.com](https://bot2botlabs.com)
+- For agents: [bot2botlabs.com/agents](https://bot2botlabs.com/agents)
+- X: [@bot2botlabs](https://x.com/bot2botlabs)
+- Contact: jordan@bot2botlabs.com
+
+Measured. Dated. Reproducible. No paid placement.
